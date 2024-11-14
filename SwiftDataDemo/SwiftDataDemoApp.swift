@@ -2,7 +2,7 @@
 //  SwiftDataDemoApp.swift
 //  SwiftDataDemo
 //
-//  Created by Admin Qaptive on 13/11/24.
+//  Created by Ranjith Menon on 13/11/24.
 //
 
 import SwiftUI
